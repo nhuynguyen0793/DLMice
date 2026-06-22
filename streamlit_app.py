@@ -1,9 +1,6 @@
 import streamlit as st
 
-st.title("🎈 Ứng dụng giới thiệu tuyến điểm du lịch Mice")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+st.title("🎈 Giới thiệu tuyến điểm du lịch Mice")
 import streamlit as st
 import pandas as pd
 import requests
